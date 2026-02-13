@@ -64,3 +64,5 @@
 - AI Model Deployment
 
 ![AI GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndodmdjM3ZjNjJ3Y3UzYmtrYmNmbXk5cXowdG5xcTN3aXRiOXV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6N0pDDgDpLjUvNoyQ/giphy.gif)
+
+![ai](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJtenh5dm9ocXN1M2ZxNm9pNnFxNHJ0Z2V5em1qaXEzajMwM2l4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif)
