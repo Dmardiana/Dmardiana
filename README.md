@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Dmardiana🚀
+# 👋 Hello I'm Dmardiana🚀
 ![Dmardiana](img/Dinar_well.jpg)
 ## 💻 About Me
 - 🔥 Passionate Fullstack Developer
